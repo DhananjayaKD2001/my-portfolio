@@ -1,8 +1,3 @@
-
-//this is the hmtl code
-
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
